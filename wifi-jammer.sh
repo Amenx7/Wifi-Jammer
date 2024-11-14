@@ -86,13 +86,13 @@ sleep 2
 
 clear
 
-toilet -f big -F border "Wifi_Jammer" | lolcat
+toilet -f big -F border "X7__amen" | lolcat
 
-echo "        [ BY: D@rk_Synt@x | Instagram: its_.error._ | v1.0 ]" | pv -qL 40 | lolcat
+echo "        [ BY: X7 | Instagram: amen_labidi | v1.0 ]" | pv -qL 40 | lolcat
 
 printf "\n"
 
-echo "             [ Tool to Jam Full WiFi Network Near-You]" | pv -qL 40 | lolcat
+echo "             [ Tool to Jam Full WiFi Network ]" | pv -qL 40 | lolcat
 
 printf "\n"
 
